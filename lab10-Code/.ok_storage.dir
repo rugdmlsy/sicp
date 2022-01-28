@@ -1,0 +1,5 @@
+'slice-correct', (0, 70)
+'factorials-correct', (512, 70)
+'fibs-correct', (1024, 70)
+'exp-correct', (1536, 70)
+'nondecrease-correct', (2048, 70)
